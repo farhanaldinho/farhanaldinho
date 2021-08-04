@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a hobbyist character designer 
-
